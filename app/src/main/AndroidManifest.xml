@@ -12,9 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".Vocab"
+            android:name=".VocabActivity"
             android:label="@string/title_activity_vocab"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".Vocab"
+            android:label="@string/title_activity_vocab"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".test" />
         <activity
             android:name=".ToeicActivity"
