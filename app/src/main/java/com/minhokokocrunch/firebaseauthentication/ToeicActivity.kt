@@ -15,7 +15,4 @@ class ToeicActivity : AppCompatActivity() {
 
     }
 
-
-
-
 }
